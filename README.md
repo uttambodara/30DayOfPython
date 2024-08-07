@@ -4,8 +4,6 @@
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
 
-<div>
-</div>
 
 <div align="center">
 
@@ -42,12 +40,6 @@
       - [Dictionary](#dictionary)
       - [Tuple](#tuple)
       - [Set](#set)
-    - [Checking Data types](#checking-data-types)
-    - [Python File](#python-file)
-  - [💻 Exercises - Day 1](#-exercises---day-1)
-    - [Exercise: Level 1](#exercise-level-1)
-    - [Exercise: Level 2](#exercise-level-2)
-    - [Exercise: Level 3](#exercise-level-3)
 
 # 📘 Day 1
 
