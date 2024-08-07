@@ -21,3 +21,20 @@ print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 
 + OutPut
+
+> 5
+> 2
+> 6
+> 1.5
+> 9
+> 1
+> 1
+
+<class 'int'>
+<class 'float'>
+<class 'complex'>
+<class 'str'>
+<class 'list'>
+<class 'dict'>
+<class 'set'>
+<class 'tuple'>
