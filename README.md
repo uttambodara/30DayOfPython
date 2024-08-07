@@ -11,10 +11,7 @@
 <div align="center">
 
 
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> Second Edition: July, 2021</small>
-  </sub>
+  
 </div>
 
 🇧🇷 [Portuguese](./Portuguese/README.md)
