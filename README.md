@@ -4,6 +4,11 @@
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
 
+<div>
+<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
+<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+</div>
+
 <div align="center">
   <h1> 30 Days Of Python: Day 1 - Introduction</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
@@ -12,6 +17,19 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
+
+  <sub>Author:
+  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <small> Second Edition: July, 2021</small>
+  </sub>
+</div>
+
+🇧🇷 [Portuguese](./Portuguese/README.md)
+🇨🇳 [中文](./Chinese/README.md)
+
+[Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+
+![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 - [🐍 30 Days Of Python](#-30-days-of-python)
 - [📘 Day 1](#-day-1)
@@ -368,3 +386,4 @@ To run the python file check the image below. You can run the python file either
 ![Running python script](./images/running_python_script.png)
 
 🌕  You are amazing. You have just completed day 1 challenge and you are on your way to greatness. Now do some exercises for your brain and muscles.
+
