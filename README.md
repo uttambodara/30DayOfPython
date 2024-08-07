@@ -5,7 +5,6 @@
 | 01  |  [Introduction](./readme.md)|
 
 <div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />
 </div>
 
 <div align="center">
