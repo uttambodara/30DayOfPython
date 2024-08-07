@@ -5,8 +5,7 @@
 | 01  |  [Introduction](./readme.md)|
 
 <div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+<small>Support the <strong>author</strong> to create more educational materials</small> <br />
 </div>
 
 <div align="center">
